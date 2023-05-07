@@ -74,20 +74,7 @@ body{
   margin-bottom: 50px;
 
 }
-.img1{
-  position: relative;
-  right: 360px;
-}
-.img2{
-  position: relative;
-  left: 330px;
-  top: 200px;
-}
-.img3{
-  position:relative;
-  
-  left: 200px;
-}
+
 .pre-ending{
   text-align: center;
   font-family: 'Titan One', cursive;
