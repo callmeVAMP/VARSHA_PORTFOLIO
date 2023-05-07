@@ -85,7 +85,8 @@ body{
 }
 .img3{
   position:relative;
-  bottom: 250px;
+  bottom: 50px;
+  left: 100px;
 }
 .pre-ending{
   text-align: center;
